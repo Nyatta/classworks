@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6de2c734-efe9-4971-a97d-9e0b2019494c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="6de2c734-efe9-4971-a97d-9e0b2019494c" name="Default Changelist" comment="classwork">
+      <change afterPath="$PROJECT_DIR$/src/operator/ReturnMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test_1/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test_1/homework/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test_1/homework/calcs/CalculatorWithExtends.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test_1/homework/calcs/CalculatorWithOperator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test_1/homework/calcs/iCalc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test_1/oop/Calc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test_1/oop/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test_1/oop/OopMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test_1/operator/Operators1Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test_1/operator/OperatorsMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/operator/OperatorsMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operator/OperatorsMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/classworks.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,11 +14,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/operator/OperatorsMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="440">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/operator/ArraysMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/classworks.iml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/operator/ReturnMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -77,8 +88,10 @@
         <option value="$PROJECT_DIR$/src/homework/calcs/CalculatorWithOperator.java" />
         <option value="$PROJECT_DIR$/src/homework/calcs/CalculatorWithExtends.java" />
         <option value="$PROJECT_DIR$/src/homework/calcs/iCalc.java" />
-        <option value="$PROJECT_DIR$/src/operator/OperatorsMain.java" />
         <option value="$PROJECT_DIR$/src/operator/Operators1Main.java" />
+        <option value="$PROJECT_DIR$/src/operator/OperatorsMain.java" />
+        <option value="$PROJECT_DIR$/src/operator/ArraysMain.java" />
+        <option value="$PROJECT_DIR$/src/operator/ReturnMain.java" />
       </list>
     </option>
   </component>
@@ -99,7 +112,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -112,17 +125,40 @@
               <item name="classworks" type="462c0819:PsiDirectoryNode" />
               <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="classworks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="classworks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="classworks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="classworks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="classworks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="classworks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="oop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="classworks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="classworks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="operator" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580566546089" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580568393604" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
@@ -139,7 +175,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.OperatorsMain">
+  <component name="RunManager" selected="Application.ReturnMain">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="classworks" />
@@ -202,8 +238,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReturnMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operator.ReturnMain" />
+      <module name="classworks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="operator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReturnMain" />
         <item itemvalue="Application.OperatorsMain" />
         <item itemvalue="Application.Operators1Main" />
         <item itemvalue="Application.Main" />
@@ -226,7 +276,8 @@
       <workItem from="1580312178749" duration="7155000" />
       <workItem from="1580320169243" duration="1045000" />
       <workItem from="1580560987391" duration="2934000" />
-      <workItem from="1580565764435" duration="910000" />
+      <workItem from="1580565764435" duration="1622000" />
+      <workItem from="1580567458351" duration="920000" />
     </task>
     <task id="LOCAL-00001" summary="classwork">
       <created>1580563106886</created>
@@ -235,16 +286,31 @@
       <option name="project" value="LOCAL" />
       <updated>1580563106886</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="classwork">
+      <created>1580566693781</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580566693781</updated>
+    </task>
+    <task id="LOCAL-00003" summary="classwork">
+      <created>1580566833360</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1580566833360</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24409000" />
+    <option name="totallyTimeSpent" value="26041000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2671141" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27114093" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -328,9 +394,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/classworks.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -376,13 +439,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/operator/Operators1Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/homework/calcs/CalculatorWithExtends.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -419,8 +475,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/operator/OperatorsMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="440">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/operator/Operators1Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/operator/ArraysMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classworks.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/operator/ReturnMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
